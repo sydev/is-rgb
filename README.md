@@ -31,7 +31,7 @@ is_rgb([0, 100, 200])
   .then(result => console.log(result)) // true
   .catch(err => console.error(err));
 
-// Here with an given callback function
+// Here with a given callback function
 is_rgb([1, 101, 201], (err, result) => {
   if (err) console.error(err);
 
