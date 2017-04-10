@@ -26,7 +26,7 @@ $ yarn add is-rgb
 ```JavaScript
 const is_rgb = require('is-rgb');
 
-// If no callback function is given, is_rgb returns an promise
+// If no callback function is given, is_rgb returns a promise
 is_rgb([0, 100, 200])
   .then(result => console.log(result)) // true
   .catch(err => console.error(err));
