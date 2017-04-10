@@ -1,0 +1,18 @@
+{
+  "name": "is-rgb",
+  "version": "1.0.0",
+  "main": "is-rgb.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "keywords": ["rgb", "color", "colors", "check", "is"],
+  "author": {
+    "name": "Dominik Winter",
+    "email": "dominik.winter92@gmail.com"
+  },
+  "description": "Check if an array contains a valid rgb color code",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
