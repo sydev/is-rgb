@@ -1,5 +1,7 @@
 # is-rgb
 
+[![Build Status](https://travis-ci.org/sydev/is-rgb.svg?branch=master)](https://travis-ci.org/sydev/is-rgb)
+
 Check if an array contains a valid rgb color code
 
 ## Table of contents
